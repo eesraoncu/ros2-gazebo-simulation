@@ -77,7 +77,7 @@ ros2 run pos_py_pkg publisher
 If the blue robot starts moving in Gazebo, everything is working correctly.
 
 ## 📌 System Requirements
-✅ Ubuntu 24.04 LTS (64-bit)
-✅ ROS 2 Jazzy Jalisco fully installed and sourced
-✅ Gazebo Harmonic properly installed and tested
-🧠 Basic knowledge of ROS 2 workspaces and nodes
+✅ Ubuntu 24.04 LTS (64-bit)  
+✅ ROS 2 Jazzy Jalisco fully installed and sourced  
+✅ Gazebo Harmonic properly installed and tested  
+🧠 Basic knowledge of ROS 2 workspaces and nodes  
